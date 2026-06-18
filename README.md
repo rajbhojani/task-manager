@@ -79,3 +79,10 @@ src/
 | **Phase 5: Task Modal Form & Error Screening** | 3.0 hrs | form elements, validating date structures, UTC date formmating, showing errors. |
 | **Phase 6: High-Fidelity Desktop Workspace Wrap** | 6.0 hrs | Adding sidebar wrappers, letter-spaced column headers, and final polishing, Deatil view with timeline |
 | **Total Take-Home Investment** | **28.5 Hours** | |
+
+## 5. Screenshots 
+
+<img width="1439" height="680" alt="Screenshot 2026-06-18 at 12 29 00 PM" src="https://github.com/user-attachments/assets/b6a58624-c07f-437e-bb6e-3b55f4e83703" />
+<img width="1439" height="680" alt="Screenshot 2026-06-18 at 12 29 10 PM" src="https://github.com/user-attachments/assets/3d938bc0-6db7-4e27-ae7b-3c30345c8819" />
+<img width="1439" height="680" alt="Screenshot 2026-06-18 at 12 29 17 PM" src="https://github.com/user-attachments/assets/aaa9df58-db83-47bc-8a10-b491d727384a" />
+<img width="1439" height="680" alt="Screenshot 2026-06-18 at 12 28 48 PM" src="https://github.com/user-attachments/assets/b0ebab02-9321-4b1a-b334-54b8c914e35f" />
