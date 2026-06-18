@@ -1,0 +1,4 @@
+{
+  "name": "Task Manager",
+  "description": "A collaborative and modular Task Manager built with Vue 3 and TypeScript, featuring high fidelity Kanban Board and List views."
+}
